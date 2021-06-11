@@ -8,9 +8,11 @@ All of this information is from the Drug Review Dataset which publicly available
 There are 215,063 reviews in the dataset. Each review includes drug name, condition it was given to treat, a written review, a rating out of 10, the date and a count of other users who found the review helpful. I seperated the data by condition and took a look at the top 5 conditions that were reviewed. The most reviewed condition was birth control. I then broke it down more and looked at which drugs were reviewed most out of the birth control category.
 
 Top 5 Conditions Reviewed:
+
 <img src="https://github.com/allisonjaye/Drug-Ratings/blob/main/Images/TopConditions.jpg" width="720" height="432">
 
 Top 5 Drugs Reviewed in Top Condition:
+
 <img src="https://github.com/allisonjaye/Drug-Ratings/blob/main/Images/TopBCDrugs.jpg" width="720" height="432">
 
 ## Hypothesis
