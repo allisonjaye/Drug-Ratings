@@ -15,8 +15,11 @@ Top 5 Drugs Reviewed in Top Condition:
 
 ## Hypothesis
 My null hypothesis is that there is no difference in the average ratings of generic vs brand named drugs.
+
 H0: µ(Brand) = µ(Generic)
+
 My alternate hypothesis is that the average ratings of the generic version versus the brand names is different.
+
 H1: µ(Brand) != µ(Generic)
 
 ## Analysis
